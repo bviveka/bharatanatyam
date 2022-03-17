@@ -1,0 +1,171 @@
+ .u-section-1 {
+  background-image: linear-gradient(#db545a, #f1c50e);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 718px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 1119px;
+  margin: 60px auto 60px 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 607px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url("images/signup.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Antonio;
+  font-size: 3.75rem;
+  margin: 206px 7px 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 607px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-form-1 {
+  width: 570px;
+  left: auto;
+  right: -24px;
+}
+
+.u-section-1 .u-label-1 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-2 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-label-3 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-4 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-label-5 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  background-image: none;
+  font-weight: 700;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 621px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 111px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 510px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 144px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 510px;
+  }
+
+  .u-section-1 .u-form-1 {
+    height: 597px;
+    margin-top: -67px;
+    margin-bottom: -30px;
+    width: auto;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    top: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1673px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 781px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 781px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 25px;
+    margin-bottom: -122px;
+    width: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1283px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 586px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 586px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 849px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 369px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 369px;
+  }
+}
